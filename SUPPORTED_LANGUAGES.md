@@ -107,6 +107,7 @@ The table below shows the full list of languages (and corresponding classes/alia
 | Hy                      | hy, hylang             |         |
 | Ini, TOML               | ini, toml              |         |
 | Inform7                 | inform7, i7            |         |
+| Iptables                | iptables               |         |
 | IRPF90                  | irpf90                 |         |
 | JSON                    | json                   |         |
 | Java                    | java, jsp              |         |
