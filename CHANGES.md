@@ -26,6 +26,7 @@ Grammars:
 - enh(php) detect newer more flexible NOWdoc syntax (#3679) [Timur Kamaev][]
 - enh(python) improve autodetection of code with type hinting any function's return type (making the `->` operator legal) [Keyacom][]
 - enh(bash) add `select` and `until` as keywords
+- added 3rd party Iptables grammar to SUPPORTED_LANGUAGES [Checconio][]
 
 Parser:
 
